@@ -1,0 +1,14 @@
+Ejercicio 2
+inciso a: 5*3 = 15
+inciso b: 12.5*5.3 = 66.25
+
+Ejercicio 3
+inciso a: (50-32)*5/9 = 10
+inciso b: (75-32)*5/9 = 23.88
+
+Ejercicio 4
+inciso a: (5+7+9)/3 = 7
+inciso b: ((-2)+(-3)+(-8))/3 = -4.33
+inciso c: ((-1.2)+5.3+(-3.3)/3 = 3
+
+
